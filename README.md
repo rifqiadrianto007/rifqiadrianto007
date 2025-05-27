@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Rifqi</h1>
 <h3 align="center">Ungraduate computer science student, in the Informatics study program.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifqiadrianto007" alt="rifqiadrianto007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🔭 I’m currently working on **Front - end & Full Stack Web Development**
 
