@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel with Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://rifqiadrianto007.github.io/Portofolio-Tailwind/](https://rifqiadrianto007.github.io/Portofolio-Tailwind/)
+- 👨‍💻 All of my projects are available at [https://rifqiadrianto.vercel.app/](https://rifqiadrianto.vercel.app/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/rifqiadrianto/**
 
