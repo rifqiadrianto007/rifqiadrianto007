@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rifqiadrianto.vercel.app/](https://rifqiadrianto.vercel.app/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/rifqiadrianto/**
+- 📫 Let's connect by **https://www.linkedin.com/in/rifqiadrianto/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
