@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Rifqi</h1>
 <h3 align="center">Ungraduate computer science student, in the Informatics study program.</h3>
 
-- 🔭 I’m currently working on **Front - end & Full Stack Web Development**
+- 🔭 I’m currently interesting on **Full Stack Web Development**
 
 - 🌱 I’m currently learning **Laravel with Computer Vision**
 
