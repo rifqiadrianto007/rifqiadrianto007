@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently interesting on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Laravel with Computer Vision**
+- 🌱 I’m currently learning **Laravel with Computer Vision and React JS**
 
 - 👨‍💻 All of my projects are available at [https://rifqiadrianto.vercel.app/](https://rifqiadrianto.vercel.app/)
 
