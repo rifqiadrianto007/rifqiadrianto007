@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel with Computer Vision and React JS**
 
-- 👨‍💻 All of my projects are available at [https://rifqiadrianto.vercel.app/](https://rifqiadrianto.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rifqi-adrianto.vercel.app/](https://rifqi-adrianto.vercel.app/)
 
 - 📫 Let's connect by **https://www.linkedin.com/in/rifqiadrianto/**
 
