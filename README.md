@@ -1,11 +1,11 @@
 <h1 align="center">Hello👋, I'm Rifqi</h1>
-<h3 align="center">Ungraduate computer science student, in the Informatics study program.</h3>
+<h3 align="center">Undergraduate computer science student, in the Informatics study program.</h3>
 
 - 🔭 I’m currently interesting on **Full Stack Web Development**
 
 - 🌱 I’m currently learning **Laravel with Computer Vision and React JS**
 
-- 👨‍💻 All of my projects are available at [https://rifqi-adrianto.vercel.app/](https://rifqi-adrianto.vercel.app/)
+- 👨‍💻 All of my projects are available at [[rifqiadrianto.dev](rifqiadrianto.dev/)
 
 - 📫 Let's connect by **https://www.linkedin.com/in/rifqiadrianto/**
 
